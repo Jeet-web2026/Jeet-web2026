@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jit nath
-- 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning full stack engineering using PHP 
+- 👀 I’m interested in software development 
+- 🌱 I’m currently learning full stack development using PHP 
 - 📫 mailme @ jeetnath2110@gmail.com
 
 <!---

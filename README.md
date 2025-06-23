@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jit nath
 - 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning Full Stack Development using PHP || Laravel || JavsScript
+- 🌱 I’m currently learning Full Stack Development using PHP || Laravel || JavaScript
 - 📫 mailme @ jeetnath2110@gmail.com
 
 <!---

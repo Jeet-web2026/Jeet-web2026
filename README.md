@@ -5,14 +5,14 @@ Software Engineer || React & React Native || Laravel & PHP || Node & Next
 
 ---
 
-## 🚀 About Me  
+🚀 About Me  
 Hi! I’m Jit — a passionate full-stack web developer specializing in building robust backend systems and dynamic, responsive frontends.  
 I focus on modern web technologies, clean and maintainable code, and turning complex requirements into efficient web applications.  
 My current journey is centered on mastering Laravel, REST APIs, Next.js, and building SaaS platforms.
 
 ---
 
-## 🛠 Core Expertise  
+🛠 Core Expertise  
 - **Backend Development**: PHP (Core PHP) · Laravel (including multi-auth, APIs, queues, middleware)  
 - **Frontend & FullStack**: HTML5 · CSS3 · JavaScript · jQuery · Bootstrap · React · Next.js  
 - **WordPress**: Custom theme development · Custom plugin development  
@@ -22,7 +22,7 @@ My current journey is centered on mastering Laravel, REST APIs, Next.js, and bui
 
 ---
 
-## 📂 Featured Projects  
+📂 Featured Projects  
 Here are some of the standout projects from my repository:
 
 | Project | Description | Tech Stack |
@@ -37,14 +37,14 @@ Here are some of the standout projects from my repository:
 
 ---
 
-## 🎓 Career & Education Highlights  
+🎓 Career & Education Highlights  
 - **Current Role**: Jr. Laravel Developer at Fusion Techlab (from July 2025)  
 - **Previous Positions**: Web Developer (Laravel) at Digityx · Frontend Developer at Digityx (April 2024 – Nov 2024)  
 - **Education**: BCA (Bachelor of Computer Application) – Indira Gandhi National Open University (IGNOU) · Higher Secondary & Secondary – Nangi High School  
 
 ---
 
-## 📌 What I’m Working On  
+📌 What I’m Working On  
 - Building a **multi-vendor SaaS billing & subscription app** using Laravel  
 - Mastering **custom WordPress plugin development** from scratch  
 - Deepening proficiency in **Laravel REST APIs** with SOLID design principles  
@@ -52,11 +52,10 @@ Here are some of the standout projects from my repository:
 
 ---
 
-## 🤝 Let’s Collaborate  
+🤝 Let’s Collaborate  
 Have a project or idea? Let’s build something amazing together!  
 Feel free to reach out:  
 📧 **jeetnath2110@gmail.com** · 📱 +91 91637 15179  
-🔗 [LinkedIn](https://www.linkedin.com/in/itz-jit-nath)
 
 Happy coding!  
 :computer:  

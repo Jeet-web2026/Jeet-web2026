@@ -1,7 +1,7 @@
 # Jit Nath  
-Full-Stack Web Developer | PHP · Laravel · JavaScript · WordPress
+Software Engineer || React & React Native || Laravel & PHP || Node & Next
 
-[🌐 Portfolio](https://personal-portfolio-neon-nine.vercel.app/) · [🐙 GitHub](https://github.com/Jeet-web2026) · [📧 jeetnath2110@gmail.com]
+[🌐 My Portfolio](https://personal-portfolio-neon-nine.vercel.app/) · [🐙 LinkedIn](https://www.linkedin.com/in/itz-jit-nath) · [📧 jeetnath2110@gmail.com]
 
 ---
 

@@ -84,8 +84,8 @@ Passionate about clean code, system design, and continuously learning enterprise
 
 | Degree | Institution | Period |
 |---|---|---|
-| Bachelor of Computer Applications | Indira Gandhi National Open University (Remote) | 06/2023 – Present |
-| Higher Secondary | Nangi High School (H.S), Kolkata | 01/2020 – 07/2021 |
+| Bachelor of Computer Applications | Indira Gandhi National Open University (Remote) |
+| Higher Secondary | Nangi High School (H.S), Kolkata |
 
 ---
 

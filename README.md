@@ -49,6 +49,13 @@ Passionate about clean code, system design, and continuously learning enterprise
 - Built and integrated backend services with frontend components for full stack workflows
 - Followed coding standards and best practices while learning system design
 
+### 🏢 Web Developer — DIGITYX, Dumdum
+`04/2024 – 07/2025`
+- Built multiple LMS platforms from scratch using Laravel & PHP
+- Implemented role-based access control (admin, instructor, student)
+- Developed interactive frontend with HTML, CSS & JavaScript
+- Delivered end-to-end client projects independently to production
+
 ---
 
 ## 🔨 Projects

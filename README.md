@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Jit Nath 👋</h1>
 
 <p align="center">
-  <b>Software Engineer · PHP · Laravel · REST API · JavaScript · Node Js · Express Js · React · ShadCn UI · </b><br/>
+  <b>Software Engineer · PHP · Laravel · REST API · JavaScript · Node Js · Express Js · React · ShadCn UI · Microservices </b><br/>
   Kolkata, India
 </p>
 

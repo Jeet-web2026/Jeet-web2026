@@ -42,15 +42,7 @@ Passionate about clean code, system design, and continuously learning enterprise
 
 ## 💼 Work Experience
 
-### 🏢 Software Engineer — Tech Exactly, Kolkata
-`11/2025 – Present`
-- Develop & maintain scalable microservices-based REST APIs using Laravel and PHP
-- Build full stack features with Laravel, MySQL, JavaScript, and React
-- Implement API and unit testing to ensure reliability and performance
-- Use AI-assisted tools to speed up development, debugging, and refactoring
-- Optimize systems through caching, query tuning, and best practices
-
-### 🏢 Junior Laravel Developer — Fusion Techlab, Kolkata
+### 🏢 Laravel Developer — Fusion Techlab, Kolkata
 `07/2025 – 11/2025`
 - Developed RESTful APIs and backend features using PHP and Laravel (MVC architecture)
 - Implemented authentication and authorization mechanisms with MySQL for secure data handling

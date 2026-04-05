@@ -83,7 +83,7 @@ Passionate about clean code, system design, and continuously learning enterprise
 ## 🎓 Education
 
 | Degree | Institution |
-|---|---|---|
+|---|---|
 | Bachelor of Computer Applications | Indira Gandhi National Open University (Remote) |
 | Higher Secondary | Nangi High School (H.S), Kolkata |
 

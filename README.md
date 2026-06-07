@@ -103,7 +103,7 @@ English &nbsp;&nbsp; Hindi &nbsp;&nbsp; Bengali
 
 ---
 
-<p>Open to new opportunities as a Software Engineer (JavaScript & Laravel)</p>
+<p>Open to new opportunities as a Software Engineer (Node.Js & Laravel)</p>
 
 ---
 

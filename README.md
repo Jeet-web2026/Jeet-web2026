@@ -99,7 +99,7 @@ Passionate about clean code, system design, and continuously learning enterprise
 
 ## 🌐 Languages
 
-🇬🇧 English &nbsp;&nbsp; 🇮🇳 Hindi &nbsp;&nbsp; 🇧🇩 Bengali
+English &nbsp;&nbsp; Hindi &nbsp;&nbsp; Bengali
 
 ---
 

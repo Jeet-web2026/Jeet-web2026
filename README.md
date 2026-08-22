@@ -107,7 +107,15 @@ Comfortable owning a feature end-to-end — from schema design and REST APIs to 
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=Jeet-web2026&show_icons=true&theme=radical&hide_border=true" width="49%"/> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jeet-web2026&layout=compact&theme=radical&hide_border=true" width="35%"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=Jeet-web2026&theme=radical&hide_border=true" width="49%"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeet-web2026&theme=tokyo-night&hide_border=true" width="49%"/> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Jeet-web2026&theme=radical&no-frame=true&row=1&column=6"/> </p>
+<p align="center"> 
+  <img src="https://github-stats-extended.vercel.app/api?username=Jeet-web2026&show_icons=true&theme=radical&hide_border=true" width="49%"/> 
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jeet-web2026&layout=compact&theme=radical&hide_border=true" width="49%"/> 
+</p>
+
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=Jeet-web2026&theme=radical&hide_border=true" width="49%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeet-web2026&theme=tokyo-night&hide_border=true" width="49%"/>
+</p> 
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Jeet-web2026&theme=radical&no-frame=true&row=1&column=6"/> </p>
 
 ---
 
